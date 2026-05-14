@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm start *)",
+      "Bash(npm run *)",
+      "Bash(xxd client/src/App.js)",
+      "Bash(xxd)"
+    ]
+  }
+}
